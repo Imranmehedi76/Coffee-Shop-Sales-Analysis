@@ -16,3 +16,6 @@ This dashboard allows for data-driven decisions, such as:
 🔹 Adjusting inventory and staffing for peak hours
 🔹 Optimizing marketing strategies based on top-selling products
 🔹 Understanding customer preferences for different locations
+
+✅ Total Sales: ₹6,98,812.33
+✅ Total Footfall: 1,49,116 customers
